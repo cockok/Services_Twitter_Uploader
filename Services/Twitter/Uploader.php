@@ -59,7 +59,8 @@ abstract class Services_Twitter_Uploader
         'yfrog',
         'mobypicture',
         'twipl',
-        'posterous'
+        'posterous',
+        'twitvideo',
     );
 
     /**
